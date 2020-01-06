@@ -19,4 +19,4 @@ On another note, please really consider writing your technical experience as thi
 Here are a few links you guys can check out to get ideas:
 - https://smerity.com/articles/2017/deepcoder_and_ai_hype.html
 - https://www.juliaferraioli.com/blog/2016/02/exploring-world-using-vision-twilio/
- https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture
+- https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture
