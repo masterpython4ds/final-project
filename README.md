@@ -3,7 +3,7 @@ We hope you had fun analyzing, vizualizing and creating machine learning models.
 
 For the final project you are required to pick a dataset of your choosing from any data source and build a machine learning model using the project description.
 
-Here are a couple of links you can get data sets from (or if you would like you can re-use any of the datasets from the slack datasets channel)
+Here are a couple of links you can get datasets from (or if you would like you can re-use any of the datasets from the slack datasets channel)
 - [Kaggle](https://www.kaggle.com/competitions)
 - [Datadriven](https://www.drivendata.org/competitions/)
 - [Zindi](https://zindi.africa/competitions)
